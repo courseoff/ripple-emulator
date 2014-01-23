@@ -39,24 +39,6 @@ input, textarea, keygen, select, button, isindex, datagrid {
     resize: none;
 }
 
-.logo {
-    background-size: 40%;
-    background-repeat: no-repeat;
-    position: absolute;
-    left: 395px;
-    top: 8px;
-    width: 200px;
-    height: 70px;
-}
-
-.beta {
-    -webkit-transform: rotate(-35deg);
-    transform: rotate(-35deg);
-    position: absolute;
-    left: 390px;
-    top: 7px;
-}
-
 .main {
     font-size: 12px !important;
     -webkit-user-select: none;
