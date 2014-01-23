@@ -1082,6 +1082,10 @@ fieldset {
     z-index: 100;
 }
 
+#contextMenu.hideMenu {
+    display: none;
+}
+
 #contextMenuDelete {
     position: absolute;
     bottom: 0;
