@@ -44,17 +44,6 @@
     "xmlhttprequest": "1.4.2",
     "coverjs": "0.0.14"
   },
-  "files": [
-    "README.md",
-    "LICENSE",
-    "lib/index.js",
-    "lib/server",
-    "lib/cli",
-    "assets/server",
-    "pkg/hosted",
-    "doc",
-    "bin"
-  ],
   "engines": {
     "node": ">= 0.8.0",
     "npm":  ">= 1.1.0"
