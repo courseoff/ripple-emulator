@@ -28,13 +28,13 @@
   "main": "./lib/index",
   "dependencies": {
     "express": "3.1.0",
-    "connect-xcors": "0.5.2",
-    "request": "2.12.0",
     "colors" : "0.6.0-1",
     "moment" : "1.x.x",
-    "accounting" : "0.x.x",
     "open": "0.0.3",
-    "jWorkflow": "0.9.0"
+    "jWorkflow": "0.9.0",
+    "http-proxy": "1.0.1",
+    "hbs": "2.4.0",
+    "enchilada": "0.7.1"
   },
   "devDependencies": {
     "connect": "2.3.6",
